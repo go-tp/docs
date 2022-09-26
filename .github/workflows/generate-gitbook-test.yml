@@ -25,4 +25,4 @@ jobs:
         gitbook build
     - name: file list
       run: |
-        tree -a
+        tree -a _book
