@@ -1,6 +1,9 @@
-# go-tp
+# 简介
 
 * [简介](README.md)
-* [快速开始](https://github.com/go-tp/application)
-* [helloworld](helloworld/README.md)
+
+# go-tp
+* [快速开始](quickstart/README.md)
+* [第三方包](pkg/README.md)
+    * [helloworld](helloworld/README.md)
 * [文档贡献指南](docs/README.md)

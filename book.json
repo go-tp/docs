@@ -1,0 +1,17 @@
+{
+    "title": "go-tp",
+    "author": "go-tp",
+    "description": "go-tp,详情请访问 https://go-tp.github.io/",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [
+        "hide-element",
+        "expandable-chapters-small",
+        "-sharing"
+    ],
+    "pluginsConfig":{    
+        "hide-element": {
+            "elements": ["a.gitbook-link[href='https://www.gitbook.com']"]
+        }
+    }
+}
